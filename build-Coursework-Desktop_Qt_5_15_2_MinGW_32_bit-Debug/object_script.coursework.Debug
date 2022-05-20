@@ -1,0 +1,11 @@
+debug/Bit.o
+debug/CoderHelper.o
+debug/Decoder.o
+debug/Encoder.o
+debug/Register.o
+debug/RegisterSet.o
+debug/Summator.o
+debug/UtilClass.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o
