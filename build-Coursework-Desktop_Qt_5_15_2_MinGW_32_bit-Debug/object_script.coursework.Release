@@ -1,0 +1,11 @@
+release/Bit.o
+release/CoderHelper.o
+release/Decoder.o
+release/Encoder.o
+release/Register.o
+release/RegisterSet.o
+release/Summator.o
+release/UtilClass.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o
